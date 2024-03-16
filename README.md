@@ -2,8 +2,6 @@
 
 # Aprende diseño UX/UI (siendo un perfil de desarrollo)
 
-![Guía y recursos para aprender diseño UX/UI](/images/thumbnail.png)
-
 > El roadmap que necesitas para entender mejor el diseño y desarrollar mejores productos digitales.
 
 Este repositorio contiene una lista seleccionada de recursos para ayudarte a aprender sobre el diseño de interfaces y de experiencia del usuario. Incluye recursos como artículos, tutoriales, vídeos y cursos. Todo en español :)
