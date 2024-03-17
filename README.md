@@ -20,7 +20,7 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 
 ## Retículas y 8pt grid
 
--[Conceptos básicos de las retículas](https://www.uifrommars.com/mejora-tu-diseno-ui-utilizando-reticulas/) - En pocas palabras: qué son y por qué deberían importarte.
+- [Conceptos básicos de las retículas](https://www.uifrommars.com/mejora-tu-diseno-ui-utilizando-reticulas/) - En pocas palabras: qué son y por qué deberían importarte.
 
 - [Retícula de 8pt](https://www.uifrommars.com/reticula-8pt-que-es-para-que-sirve/) - Aprende (o recuerda) por qué se suele utilizar una retícula de 8pt para diseñar y desarrollar productos digitales.
 
@@ -68,7 +68,7 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 
 - [SVG Repo](https://www.svgrepo.com/) - Más de 500.000 iconos en SVG bajo licencia abierta.
 
-- [Material Icons](https://www.svgrepo.com/) - Los iconos de Google Material Design.
+- [Material Icons](https://fonts.google.com/icons) - Los iconos de Google Material Design.
 
 - [Color Hunt](https://colorhunt.co/) - Utiliza palabras clave para generar paletas de color que funcionen.
 
