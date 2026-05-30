@@ -36,6 +36,8 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 
 - [Herramientas para comprobar la accesibilidad](https://www.uifrommars.com/7-herramientas-accesibilidad-disenadores/) - Extensiones y herramientas para que puedas asegurarte de que estás desarrollando algo que será accesible.
 
+- [European Accessibility Act: guía práctica](https://www.uifrommars.com/european-accessibility-act-guia-disenadores/) - Guía práctica sobre cómo implementar la European Accessibility Act en productos digitales, con estrategias reales y herramientas útiles.
+
 ## Proceso de trabajo
 
 - [Trabaja con casos de uso](https://www.uifrommars.com/casos-de-uso/) - Una cosa es que lo que has desarrollado funcione. Otra muy diferente es que realmente esté resolviendo casos de uso y necesidades para los usuarios.
@@ -45,6 +47,12 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 - [Happy Path y Edge Cases](https://www.uifrommars.com/que-es-happy-path/) - Empieza siempre con el camino fácil, el que no tiene errores, pero no te olvides de los casos extremos... porque pasar, pasan.
 
 - [Toma de requisitos](https://www.uifrommars.com/como-hacer-un-buen-brief/) - Esta parte es vital, porque las user stories no siempre están completas o contienen toda la información que necesitas.
+
+- [Wireframes](https://www.uifrommars.com/que-es-wireframe/) - Qué son, para qué sirven, tipos existentes, elementos clave y herramientas recomendadas para crearlos. Fundamental para entender lo que el equipo de diseño te está entregando antes del diseño final.
+
+- [Investigación cuantitativa vs cualitativa](https://www.uifrommars.com/investigacion-cuantitativa-vs-cualitativa/) - Las diferencias entre ambos tipos de investigación y cuándo aplicar cada una: datos numéricos de comportamiento vs. comprensión del «por qué».
+
+- [Customer Effort Score (CES)](https://www.uifrommars.com/customer-effort-score-que-es/) - Métrica que mide el esfuerzo que percibe un usuario al interactuar con tu producto. Útil para identificar fricciones en flujos clave que el equipo de desarrollo puede resolver.
 
 ## Trabajar con perfiles de diseño
 
@@ -59,6 +67,32 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 - [Cómo dar y recibir feedback sin morir en el intento](https://www.uifrommars.com/como-dar-recibir-feedback/) - Lo que dice el título: ni todo el feedback es malo, ni hay que ponerse siempre a la defensiva.
 
 - [Diseña poco, comparte mucho](https://www.uifrommars.com/ciclos-de-feedback/) - Cómo conseguir que el equipo de diseño te haga actualizaciones periódicas en lugar de enviarte el diseño finalizado y cerrado al final.
+
+- [Método SBI: cómo dar feedback](https://www.uifrommars.com/metodo-sbi-fedback/) - El modelo Situación-Comportamiento-Impacto del Center for Creative Leadership para dar retroalimentación objetiva y constructiva en equipos de producto.
+
+## Componentes y patrones UI
+
+- [Diseño de formularios](https://www.uifrommars.com/diseno-formularios-reducir-abandono/) - Por qué el 67% de los usuarios abandona los formularios y estrategias clave para evitarlo: labels visibles, validación inteligente y estructura de una columna.
+
+- [Modales en diseño UX](https://www.uifrommars.com/que-es-un-modal/) - Cuándo utilizar modales en una interfaz, patrones que funcionan, errores comunes y buenas prácticas de accesibilidad.
+
+- [Tooltips en diseño UX](https://www.uifrommars.com/que-es-un-tooltip/) - Cuándo implementar tooltips, buenas prácticas y errores habituales que conviene evitar.
+
+- [Guía para diseñar cards](https://www.uifrommars.com/guia-diseno-cards/) - Anatomía, tipos principales y mejores prácticas de las tarjetas en interfaces digitales: espaciado, consistencia y contraste visual.
+
+- [Botones deshabilitados](https://www.uifrommars.com/botones-deshabilitados-ux/) - Por qué los botones deshabilitados suelen ser un antipatrón y qué alternativas (como mensajes de error claros) funcionan mejor en usabilidad y accesibilidad.
+
+## Leyes y psicología UX
+
+- [Ley de Jakob](https://www.uifrommars.com/ley-jakob-usabilidad/) - Los usuarios esperan que tu producto funcione como el resto de productos que ya conocen. Cuándo innovar y cuándo seguir las convenciones establecidas.
+
+- [Ley de Pareto en diseño](https://www.uifrommars.com/ley-pareto-diseno/) - El 80% de los resultados proviene del 20% de las causas: cómo aplicar este principio para priorizar funcionalidades y maximizar el impacto del producto.
+
+- [Pirámide de Maslow en diseño UX](https://www.uifrommars.com/piramide-maslow-diseno-ux/) - Cómo traducir los cinco niveles de necesidades humanas en decisiones de diseño concretas, con ejemplos de productos digitales conocidos.
+
+- [La configuración predeterminada siempre gana](https://www.uifrommars.com/configuracion-predeterminada-siempre-gana/) - La mayoría de usuarios nunca cambia los valores por defecto: por qué diseñar buenos defaults es una de las decisiones de mayor impacto en un producto.
+
+- [Tu interfaz no es tan intuitiva como crees](https://www.uifrommars.com/tu-interfaz-no-es-intuitiva/) - Los sesgos cognitivos de quien diseña (y desarrolla) hacen que asumamos que algo es obvio cuando para el usuario no lo es.
 
 ## Handoff
 
