@@ -134,7 +134,13 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 
 - [Acorn (Firefox)](https://acorn.firefox.com/latest/acorn-aRSAh0Sp)
 
+- [Ant Design (Alibaba)](https://ant.design/)
+
+- [Atlassian Design System](https://atlassian.design/)
+
 - [Carbon (IBM)](https://carbondesignsystem.com/)
+
+- [Fluent (Microsoft)](https://fluent2.microsoft.design/)
 
 - [Garden (Zendesk)](https://garden.zendesk.com/)
 
@@ -149,6 +155,8 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 - [Mixpanel (Mixpanel)](https://design.mixpanel.com/)
 
 - [MongoDB (MongoDB)](https://www.mongodb.design/#/ui-design-system/welcome)
+
+- [Orbit (Kiwi.com)](https://orbit.kiwi/)
 
 - [Pajamas (GitLab)](https://design.gitlab.com/)
 
@@ -177,3 +185,5 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 - [No me hagas pensar](https://amzn.to/3IEy9RH) - Sirve tanto para perfiles de diseño como para perfiles de desarrollo: en los productos digitales no hay que complicar excesivamente las cosas.
 
 - [Idea, producto, negocio](https://amzn.to/4afnuIT) - Para aquellos perfiles de desarrollo que quieran aprender mejor qué es esto del "negocio" y cómo tener mejores ideas para participar en sesiones de ideación o hacer buenas propuestas.
+
+- [Sprint](https://www.amazon.es/Sprint-m%C3%A9todo-resolver-problemas-CONECTA/dp/8416029687) - El método de Google Ventures para resolver problemas y validar ideas en solo cinco días. Muy útil si participas en procesos de discovery o quieres entender cómo se toman decisiones de diseño rápidamente.
