@@ -186,4 +186,4 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 
 - [Idea, producto, negocio](https://amzn.to/4afnuIT) - Para aquellos perfiles de desarrollo que quieran aprender mejor qué es esto del "negocio" y cómo tener mejores ideas para participar en sesiones de ideación o hacer buenas propuestas.
 
-- [Sprint](https://www.amazon.es/Sprint-m%C3%A9todo-resolver-problemas-CONECTA/dp/8416029687) - El método de Google Ventures para resolver problemas y validar ideas en solo cinco días. Muy útil si participas en procesos de discovery o quieres entender cómo se toman decisiones de diseño rápidamente.
+- [Sprint](https://amzn.to/3RS1dgo) - El método de Google Ventures para resolver problemas y validar ideas en solo cinco días. Muy útil si participas en procesos de discovery o quieres entender cómo se toman decisiones de diseño rápidamente.
