@@ -152,8 +152,6 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 
 - [Material Design (Google)](https://m3.material.io/)
 
-- [Mixpanel (Mixpanel)](https://design.mixpanel.com/)
-
 - [MongoDB (MongoDB)](https://www.mongodb.design/#/ui-design-system/welcome)
 
 - [Orbit (Kiwi.com)](https://orbit.kiwi/)
@@ -170,7 +168,7 @@ Este repositorio contiene una lista seleccionada de recursos para ayudarte a apr
 
 - [Vanilla (Ubuntu)](https://vanillaframework.io/)
 
-- [Yoga (Gympass)](https://gympass.github.io/yoga/)
+- [Yoga (Wellhub)](https://gympass.github.io/yoga/)
 
 ## Libros
 
